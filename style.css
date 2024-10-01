@@ -492,7 +492,7 @@ main section h1 {
 }
 
 @media (max-width: 768px) {
-    .section {
+    .sectionNos {
         padding: 10px;
     }
 }
